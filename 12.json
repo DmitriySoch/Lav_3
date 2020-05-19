@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "data": {
+        "values": {
+            "fullscreen": [
+                1
+            ],
+            "monitor_number": [
+                0
+            ],
+            "resolution": [
+                1280,
+                720
+            ],
+            "combat_pivot_camera": [
+                1
+            ],
+            "blur": [
+                1
+            ],
+            "subtitles": [
+                1
+            ],
+            "mute": [
+                0
+            ],
+            "master_volume": [
+                100
+            ],
+            "sfx_volume": [
+                100
+            ],
+            "music_volume": [
+                100
+            ],
+            "narration_volume": [
+                100
+            ],
+            "video_volume": [
+                100
+            ],
+            "metrics": [
+                1
+            ],
+            "extra_bark_time": [
+                0
+            ],
+            "bark_dismissal": [
+                1
+            ],
+            "debug_output": [
+                0
+            ],
+            "language": "russian"
+        }
+    }
+
